@@ -1,0 +1,1 @@
+const DEF=[{id:'c-chettinad',n:'Chettinad Cotton',k:'mar',d:'Checks with gold zari borders',on:true}

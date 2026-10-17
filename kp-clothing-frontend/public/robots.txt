@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /my-orders
+Disallow: /checkout
+
+Sitemap: https://kpclothing.com/sitemap.xml
